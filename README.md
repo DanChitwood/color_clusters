@@ -1,5 +1,5 @@
 # color_clusters
-***exploratory code!*** *:an attempt to segment and model veins by k means color clustering and polar coordinate conversion*
+***exploratory code!*** *:an attempt to segment and model veins by k means color clustering and polar coordinate conversion*  
 ultimately, the segmenting of veins and conversion to polar coordinates would allow modeling of veins
 
 in the notebook:
